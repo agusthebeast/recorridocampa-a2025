@@ -9,7 +9,7 @@
     "id": "san-miguel",
     "nombre": "San Miguel",
     "coords": [-34.5425, -58.7120],
-    "fotos": ["media/san-miguel/1.jpg","media/san-miguel/2.jpg"]
+    "fotos": ["media/san-miguel/1.png","media/san-miguel/2.png","media/san-miguel/3.png","media/san-miguel/4.png"]
   },
   {
     "id": "san-martin",
