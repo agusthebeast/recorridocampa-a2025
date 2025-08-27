@@ -1,0 +1,8 @@
+{
+  "ultimoRecorridoIndex": 6,
+  "autoStart": true,
+  "pausaParadaMs": 1000,
+  "velocidad": 100,
+  "confeti": true,
+  "repetirAlFinal": false
+}

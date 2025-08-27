@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recorrido de Campaña</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+</head>
+<body>
+  <header>
+    <div class="logo">LOGO ACÁ</div>
+    <h1>Recorrido de Campaña</h1>
+  </header>
+
+
+  <main>
+    <div id="map"></div>
+  </main>
+
+  <button id="btnStart" class="start-btn">Comenzar recorrido</button>
+
+  <!-- Modal galería -->
+  <div id="modal" class="hidden">
+    <div class="modal-box">
+      <button id="closeModal">✖</button>
+      <h2 id="modalTitulo"></h2>
+      <div class="galeria">
+        <button id="prevImg" class="nav">‹</button>
+        <img id="galeriaImg" alt="">
+        <button id="nextImg" class="nav">›</button>
+      </div>
+      <div id="pieFoto"></div>
+    </div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- Confeti -->
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+  <!-- App -->
+  <script src="app.js"></script>
+</body>
+</html>

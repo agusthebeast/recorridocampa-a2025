@@ -1,0 +1,44 @@
+[
+  {
+    "id": "jose-c-paz",
+    "nombre": "José C. Paz",
+    "coords": [-34.5159, -58.7747],
+    "fotos": ["media/jose-c-paz/1.jpg","media/jose-c-paz/2.jpg","media/jose-c-paz/3.jpg","media/jose-c-paz/4.jpg"]
+  },
+  {
+    "id": "san-miguel",
+    "nombre": "San Miguel",
+    "coords": [-34.5425, -58.7120],
+    "fotos": ["media/san-miguel/1.jpg","media/san-miguel/2.jpg"]
+  },
+  {
+    "id": "san-martin",
+    "nombre": "San Martín",
+    "coords": [-34.5703, -58.5335],
+    "fotos": ["media/san-martin/1.jpg"]
+  },
+  {
+    "id": "la-matanza",
+    "nombre": "La Matanza (San Justo)",
+    "coords": [-34.6767, -58.5625],
+    "fotos": ["media/la-matanza/1.jpg","media/la-matanza/2.jpg"]
+  },
+  {
+    "id": "lomas-de-zamora",
+    "nombre": "Lomas de Zamora",
+    "coords": [-34.7609, -58.4060],
+    "fotos": ["media/lomas-de-zamora/1.jpg"]
+  },
+  {
+    "id": "esteban-echeverria",
+    "nombre": "Esteban Echeverría (Monte Grande)",
+    "coords": [-34.8166, -58.4650],
+    "fotos": ["media/esteban-echeverria/1.jpg","media/esteban-echeverria/2.jpg"]
+  },
+  {
+    "id": "ezeiza",
+    "nombre": "Ezeiza",
+    "coords": [-34.8530, -58.5220],
+    "fotos": ["media/ezeiza/1.jpg","media/ezeiza/2.jpg","media/ezeiza/3.jpg","media/ezeiza/4.jpg"]
+  }
+]
