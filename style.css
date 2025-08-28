@@ -188,7 +188,7 @@ main {
   font-weight:800; color:#4c2882; font-size:16px;
 }
 
-/* Tira de localidades abajo */
+/* Tira de localidades abajo */ 
 #badges{
   position: fixed;
   bottom: 12px; left: 50%; transform: translateX(-50%);

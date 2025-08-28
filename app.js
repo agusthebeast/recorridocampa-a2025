@@ -14,7 +14,7 @@ const BA_BOUNDS = L.latLngBounds(
   L.latLng(-33.0, -56.0)
 );
 
-// ====================
+// ===================
 // Inicialización
 // ====================
 async function init() {
