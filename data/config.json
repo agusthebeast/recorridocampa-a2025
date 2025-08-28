@@ -1,8 +1,9 @@
 {
-  "ultimoRecorridoIndex": 6,
-  "autoStart": true,
-  "pausaParadaMs": 1000,
+  "ultimoRecorridoIndex": 7,
+  "autoStart": false,
+  "pausaParadaMs": 1600,
   "velocidad": 100,
   "confeti": true,
-  "repetirAlFinal": false
+  "repetirAlFinal": false,
+  "liveUrl": "https://www.youtube.com/live/dn_k9wmoapE?si=u7eeoqyjzGd5sOvz"
 }

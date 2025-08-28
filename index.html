@@ -20,7 +20,16 @@
     <div id="map"></div>
   </main>
 
-  <button id="btnStart" class="start-btn">Comenzar recorrido</button>
+  <!-- Selector de localidad -->
+<div id="selector">
+  <button id="prevStop" aria-label="Anterior">‹</button>
+  <div id="selectorName">—</div>
+  <button id="nextStop" aria-label="Siguiente">›</button>
+</div>
+
+<!-- Tira de localidades (resaltado del actual) -->
+<div id="badges"></div>
+
 
   <!-- Modal galería -->
   <div id="modal" class="hidden">
@@ -28,11 +37,16 @@
       <button id="closeModal">✖</button>
       <h2 id="modalTitulo"></h2>
       <div class="galeria">
-        <button id="prevImg" class="nav">‹</button>
+        
         <img id="galeriaImg" alt="">
-        <button id="nextImg" class="nav">›</button>
+        
       </div>
       <div id="pieFoto"></div>
+      <!-- Controles debajo de la imagen -->
+  <div id="galeriaControles">
+    <button id="prevImg">Anterior</button>
+    <button id="nextImg">Siguiente</button>
+  </div>
     </div>
   </div>
 
