@@ -1,17 +1,17 @@
 [
   { "id": "jose-c-paz", "nombre": "José C. Paz", "coords": [-34.519, -58.774], "fotos": [
-    "media/jose-c-paz/1.jpg","media/jose-c-paz/2.jpg","media/jose-c-paz/3.jpeg","media/jose-c-paz/4.jpg"
+    "media/jose-c-paz/1.jpg","media/jose-c-paz/2.jpg","media/jose-c-paz/3.jpeg","media/jose-c-paz/4.jpg","media/jose-c-paz/5.jpeg"
   ]},
 
   { "id": "san-miguel", "nombre": "San Miguel", "coords": [-34.541, -58.709], "fotos": [
     "media/san-miguel/1.png","media/san-miguel/2.png","media/san-miguel/3.png","media/san-miguel/4.png","media/san-miguel/5.png",
-    "media/san-miguel/6.png"
+    "media/san-miguel/6.png", "media/san-miguel/7.jpeg", "media/san-miguel/8.jpeg"
   ]},
 
   { "id": "san-martin", "nombre": "San Martín", "coords": [-34.576, -58.538], "fotos": [
     "media/san-martin/1.jpg","media/san-martin/2.png","media/san-martin/3.jpg","media/san-martin/4.png","media/san-martin/5.jpg",
     "media/san-martin/6.jpg","media/san-martin/7.png","media/san-martin/8.png","media/san-martin/9.png","media/san-martin/10.png",
-    "media/san-martin/11.png","media/san-martin/12.png","media/san-martin/13.png"
+    "media/san-martin/11.png","media/san-martin/12.png","media/san-martin/13.png","media/san-martin/14.jpeg"
   ]},
 
   { "id": "san-justo", "nombre": "San Justo", "coords": [-34.676, -58.563], "fotos": [
